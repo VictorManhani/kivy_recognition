@@ -1,4 +1,4 @@
-# Kivy Detection
+# Kivy Recognition
 --------------
 
 Projeto inspirado no repositório:
