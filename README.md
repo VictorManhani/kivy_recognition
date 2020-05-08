@@ -3,8 +3,10 @@
 
 Projeto inspirado no repositório:
 > https://github.com/syedhope/Face-Detection
+
 E no projeto realizado pelo @bunkus, retirado do site:
 > https://groups.google.com/forum/#!topic/kivy-users/N18DmblNWb0
+
 Adaptações e melhorias realizadas por mim:
 - Pausar vídeo
 - Tirar foto e salvar na pasta output
@@ -15,8 +17,11 @@ Adaptações e melhorias realizadas por mim:
 ### Dependências:
 
 > Python == 3.7.7
+
 > Kivy == 1.11.1
+
 > numpy == 1.18.1
+
 > opencv-python == 4.2.0.34
 
 ### Instruções:
